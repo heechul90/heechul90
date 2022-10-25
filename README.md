@@ -1,14 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Heechul%20Lee&fontSize=90&fontColor=d6ace6&reversal=true&animation=twinkling)
+## Lee Heechul &nbsp;@heech
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2heechul90&count_bg=%23D4EB4A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://heechul90.github.io/)](https://da-nyee.github.io/) [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:leedaeun.dev@gmail.com)](mailto:heechul4296@gmail.com)
+
+### 💎 Experience
+- Backend Developer at Dataeum &nbsp;<sub>(Full-time, June 2020 –)</sub>
+
+### 🎈 Interest
+- Backend/Server-side Development &nbsp;<sub>- Java, Spring Boot, JPA, Querydsl</sub>
+- Software Architecture and Design
+- Clean Code
+- Git
 
 <!--
-[![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://heechul90.github.io/)](https://heechul90.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heechul4296@gmail.com)](mailto:heechul4296@gmail.com)
+**da-nyee/da-nyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heechul90&show_icons=true)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heechul90&repo=github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heechul90&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heechul90)
