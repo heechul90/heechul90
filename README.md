@@ -6,7 +6,7 @@
 
 ### 🎈 Interest
 - Backend/Server-side Development &nbsp;<sub>- Java, Spring Boot, JPA, Querydsl</sub>
-- Software Architecture and Design
+- MicroService Architecture and Design
 - Clean Code & Test Code
 - Git & GitHub
 
