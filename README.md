@@ -1,9 +1,8 @@
 ## Lee Heechul &nbsp;@heechul
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheechul90&count_bg=%23D4EB4A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=[https://heechul90.github.io/](https://heechul90.github.io/))](https://heechul90.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heechul-lee/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:leedaeun.dev@gmail.com)](mailto:heechul4296@gmail.com)
-
-<!--[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=[https://heechul90.github.io/](https://heechul90.github.io/))](https://heechul90.github.io/)-->
 
 ---
 
