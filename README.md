@@ -7,8 +7,8 @@
 ---
 
 ### 💎 Experience
-- Backend Developer at [Dataeum](http://dataeum.kr/index.do) and [Foxedu](https://foxedu.kr/)&nbsp;&nbsp;<sub>(Full-time, June 2020 ~ January 2023)</sub>
 - Backend Developer at [Vendys]()&nbsp;&nbsp;<sub>(Full-time, February 2023 ~ )</sub>
+- Backend Developer at [Dataeum](http://dataeum.kr/index.do) and [Foxedu](https://foxedu.kr/)&nbsp;&nbsp;<sub>(Full-time, June 2020 ~ January 2023)</sub>
 
 ---
 
