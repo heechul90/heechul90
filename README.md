@@ -7,6 +7,7 @@
 ---
 
 ### 💎 Experience
+- Backend Developer at [Specter](https://www.specter.co.kr/)&nbsp;&nbsp;<sub>(Full-time, May 2024 ~ )</sub>
 - Backend Developer at [Vendys](https://sikdae.com/)&nbsp;&nbsp;<sub>(Full-time, February 2023 ~ April 2024)</sub>
 - Backend Developer at [Dataeum](http://dataeum.kr/index.do) and [Foxedu](https://foxedu.kr/)&nbsp;&nbsp;<sub>(Full-time, June 2020 ~ January 2023)</sub>
 
